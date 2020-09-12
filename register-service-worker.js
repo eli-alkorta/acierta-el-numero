@@ -1,0 +1,1 @@
+"serviceWorker"in navigator&&window.addEventListener("load",(function(){navigator.serviceWorker.register("/eli-alkorta/acierta-el-numero.git/expo-service-worker.js",{scope:"/eli-alkorta/acierta-el-numero.git/"}).then((function(e){})).catch((function(e){console.info("Failed to register service-worker",e)}))}));

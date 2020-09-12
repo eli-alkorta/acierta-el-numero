@@ -1,0 +1,37 @@
+{
+  "files": {
+    "app.js": "/eli-alkorta/acierta-el-numero.git/static/js/app.a5c1ffe4.chunk.js",
+    "app.js.map": "/eli-alkorta/acierta-el-numero.git/static/js/app.a5c1ffe4.chunk.js.map",
+    "runtime~app.js": "/eli-alkorta/acierta-el-numero.git/static/js/runtime~app.2e5bb2af.js",
+    "runtime~app.js.map": "/eli-alkorta/acierta-el-numero.git/static/js/runtime~app.2e5bb2af.js.map",
+    "static/js/2.e25d5271.chunk.js": "/eli-alkorta/acierta-el-numero.git/static/js/2.e25d5271.chunk.js",
+    "static/js/2.e25d5271.chunk.js.map": "/eli-alkorta/acierta-el-numero.git/static/js/2.e25d5271.chunk.js.map",
+    "fonts/AntDesign.ttf": "/eli-alkorta/acierta-el-numero.git/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/eli-alkorta/acierta-el-numero.git/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/eli-alkorta/acierta-el-numero.git/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/eli-alkorta/acierta-el-numero.git/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/eli-alkorta/acierta-el-numero.git/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/eli-alkorta/acierta-el-numero.git/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/eli-alkorta/acierta-el-numero.git/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/eli-alkorta/acierta-el-numero.git/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/eli-alkorta/acierta-el-numero.git/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/eli-alkorta/acierta-el-numero.git/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/eli-alkorta/acierta-el-numero.git/./fonts/MaterialIcons.ttf",
+    "fonts/OpenSans-Bold.ttf": "/eli-alkorta/acierta-el-numero.git/./fonts/OpenSans-Bold.ttf",
+    "fonts/OpenSans-Regular.ttf": "/eli-alkorta/acierta-el-numero.git/./fonts/OpenSans-Regular.ttf",
+    "fonts/SimpleLineIcons.ttf": "/eli-alkorta/acierta-el-numero.git/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/eli-alkorta/acierta-el-numero.git/favicon-16.png",
+    "favicon-32.png": "/eli-alkorta/acierta-el-numero.git/favicon-32.png",
+    "favicon.ico": "/eli-alkorta/acierta-el-numero.git/favicon.ico",
+    "index.html": "/eli-alkorta/acierta-el-numero.git/index.html",
+    "manifest.json": "/eli-alkorta/acierta-el-numero.git/manifest.json",
+    "serve.json": "/eli-alkorta/acierta-el-numero.git/serve.json",
+    "static/js/2.e25d5271.chunk.js.LICENSE.txt": "/eli-alkorta/acierta-el-numero.git/static/js/2.e25d5271.chunk.js.LICENSE.txt",
+    "static/media/success.png": "/eli-alkorta/acierta-el-numero.git/static/media/success.79c27343.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.2e5bb2af.js",
+    "static/js/2.e25d5271.chunk.js",
+    "static/js/app.a5c1ffe4.chunk.js"
+  ]
+}
